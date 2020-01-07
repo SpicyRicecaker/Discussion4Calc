@@ -1,0 +1,5 @@
+#+TITLE: Calc Discussion #4 Table
+
+* Viewing the table
+  Just click on the .org file to view the table on this website
+  Otherwise, you can try to download the .html file and open it in your web browser
